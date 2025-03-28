@@ -1,4 +1,4 @@
-# power-dashboard-sales-project
+# power BI -dashboard-sales-project
 
 Actionable Insight
 1. Technology Category Driving Sales:**
