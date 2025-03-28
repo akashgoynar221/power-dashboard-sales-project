@@ -33,5 +33,5 @@ Actionable Insight
 
 Track upcoming sales, might be compelled to stimulate sales through advertisement or promotion.
 
- # Recommendations- **Target promotions in Technology and Furniture categories and Reduce delivery cost in low-profit states or Encourage customers to pay online and give the  offer discounts. 
+ # Recommendations- Target promotions in Technology and Furniture categories and Reduce delivery cost in low-profit states or Encourage customers to pay online and give the  offer discounts. 
  Monitor forecast data and pre-plan  marketing  and Carry out customer feedback surveys in low-performing outlets.
